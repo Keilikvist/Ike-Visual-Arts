@@ -1,0 +1,141 @@
+h1 {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 120px;
+  color: goldenrod;
+}
+h2 {
+  font-family: "Splash", cursive;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 80px;
+  color: blueviolet;
+}
+
+.container-main {
+  background-image: url(../images/TransparentVisualArtsBG2.png);
+}
+.carousel-inner > .carousel-item > img {
+  width: 360px;
+  height: 360px;
+  border-radius: 4px;
+}
+
+.carousel {
+  box-shadow: 12px 12px 12px greenyellow;
+  border-color: black;
+}
+.mt-3 {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  border-color: black;
+  border-radius: 4px;
+  box-shadow: 12px 12px 12px #ff6d4d;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.meet-teachers {
+  margin-top: 100px;
+  text-align: center;
+  color: #8a2be2;
+}
+
+.art-options {
+  margin-top: 100px;
+  text-align: center;
+  color: #8a2be2;
+}
+
+.art-class-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+#art1 {
+  padding: 20px 40px;
+  border-radius: 10px;
+  border-width: 5px;
+  border: 0.4rem outset #fe6d4d;
+  margin-bottom: 50px;
+  background-image: url(../images/OrangeScribble.jpg);
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 600;
+  font-size: larger;
+}
+#drawing {
+  padding: 20px 25px;
+  border-radius: 10px;
+  border-width: 5px;
+  border: 0.4rem outset #fefa1b;
+  margin-bottom: 50px;
+  background-image: url(../images/YellowScribble.jpg);
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 600;
+  font-size: larger;
+}
+#painting {
+  padding: 20px 25px;
+  border-radius: 10px;
+  border-width: 5px;
+  border: 0.4rem outset #37b0f7;
+  margin-bottom: 50px;
+  background-image: url(../images/BlueScribble.jpg);
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 600;
+  font-size: larger;
+}
+#sculpture {
+  padding: 20px 20px;
+  border-radius: 10px;
+  border-width: 5px;
+  border: 0.4rem outset #fe65c2;
+  margin-bottom: 50px;
+  background-image: url(../images/PinkScribble.jpg);
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 600;
+  font-size: larger;
+}
+#photography {
+  padding: 20px 15px;
+  border-radius: 10px;
+  border-width: 5px;
+  border: 0.4rem outset #7ed956;
+  margin-bottom: 50px;
+  background-image: url(../images/GreenScribble.jpg);
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 600;
+  font-size: larger;
+}
+
+.logo {
+  max-width: 60px;
+}
+
+.nav-item {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+}
+
+.dropdown-item:hover {
+  background-color: #fe65c2;
+}
