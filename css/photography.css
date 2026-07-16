@@ -1,0 +1,50 @@
+h1 {
+  margin-top: 50px;
+  font-family: "Rubik Moonrocks", sans-serif;
+  font-weight: 400;
+  font-size: 130px;
+  font-style: normal;
+  text-align: center;
+  text-shadow: #f9fc44 1px 0 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.course-description {
+  margin-top: 100px;
+  box-shadow: 10px 10px 10px purple;
+}
+
+.description-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+.container-pacing-guide {
+  margin-top: 60px;
+}
+
+.logo {
+  max-width: 60px;
+}
+
+.nav-item {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+}
+
+.dropdown-item:hover {
+  background-color: #fe65c2;
+}
+
+.fees {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.semester-fees {
+  text-align: center;
+  list-style: none;
+}
