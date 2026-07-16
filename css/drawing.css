@@ -1,14 +1,15 @@
 h1 {
   margin-top: 50px;
-  font-family: "Rubik Vinyl", system-ui;
+  font-family: "Rubik Marker Hatch", system-ui;
   font-weight: 400;
   font-size: 130px;
   font-style: normal;
   text-align: center;
-  text-shadow:
-    1px 1px 2px red,
-    0 0 1em blue,
-    0 0 0.2em blue;
+  text-shadow: #99d3f8 1px 0 10px;
+}
+
+h3 {
+  text-align: center;
 }
 
 .course-description {
@@ -19,6 +20,10 @@ h1 {
 .description-text {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: large;
+}
+
+.container-pacing-guide {
+  margin-top: 60px;
 }
 
 .logo {
@@ -34,10 +39,12 @@ h1 {
   background-color: #fe65c2;
 }
 
-h3 {
+.fees {
   text-align: center;
+  text-decoration: underline;
 }
 
-.container-pacing-guide {
-  margin-top: 60px;
+.semester-fees {
+  text-align: center;
+  list-style: none;
 }
