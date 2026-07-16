@@ -1,0 +1,33 @@
+.logo {
+  max-width: 60px;
+}
+
+.nav-item {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+}
+
+.dropdown-item:hover {
+  background-color: #fe65c2;
+}
+
+h2 {
+  font-family: "Splash", cursive;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 80px;
+  color: blueviolet;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.contests {
+  font-size: large;
+}
+
+.scholastic {
+  border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
