@@ -32,3 +32,7 @@ h4 {
 .scholastic {
   border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
 }
+
+.deadline {
+  color: red;
+}
